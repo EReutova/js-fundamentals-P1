@@ -15,6 +15,7 @@ function exercise12() {
   //
   // Write code between the lines (below)
   // -----------------------------------------------------------------
+ 
   // -----------------------------------------------------------------
   // Write code between the lines (above)
   //

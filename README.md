@@ -46,6 +46,8 @@ This will open an instance of the terminal (Mac) or the PowerShell (Win).
 
 - Type the following in the terminal, and hit `enter`.
 
+//IM NOT SURE IF I DID IT RIGHT//
+
 ```bash
 node 2-workshop/exercise-3.js
 ```
